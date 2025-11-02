@@ -98,7 +98,7 @@ export default function Hero() {
         </a>
         <div className="flex justify-center gap-7 mt-8 flex-wrap">
           <a
-            href="/Resume.pdf"
+            href="/final-cv.pdf"
             download
             className="text-[18px] font-bold text-[#0070c9] transition duration-500 px-4 py-2 rounded-full flex items-center gap-2 shadow hover:shadow-[0_0_20px_#0070c9] border border-transparent hover:border-[#0070c9]"
           >
